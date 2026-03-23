@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is paper "Machine Learning Guided Device-Level Design for High-Efficiency Tunnel Oxide Passivating Contact Solar Cells" related code files. Related models and dependence plot can be seen in https://data.mendeley.com/drafts/s2vnyfgc4s
+This is paper "Machine Learning Guided Device-Level Design for High-Efficiency Tunnel Oxide Passivating Contact Solar Cells" related code files. Related models and dependence plot can be seen in https://data.mendeley.com/datasets/s2vnyfgc4s/2
 
 You can cite us with:
 
